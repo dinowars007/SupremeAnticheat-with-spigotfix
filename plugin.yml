@@ -1,0 +1,7 @@
+name: SupremeAnticheat
+main: core.anticheat.Core
+version: 0.0.2
+author: SupremeAnticheat
+commands:
+  coreanticheat:
+    description: Main command
